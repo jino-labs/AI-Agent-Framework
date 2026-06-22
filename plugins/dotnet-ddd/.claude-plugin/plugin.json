@@ -1,0 +1,10 @@
+{
+  "name": "dotnet-ddd",
+  "description": "AI agents, skills, hooks and MCP for building .NET Web APIs with DDD / Clean Architecture.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Javier Antonio"
+  },
+  "homepage": "https://github.com/jino-labs/AI-Agent-Framework",
+  "license": "MIT"
+}
