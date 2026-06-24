@@ -1,9 +1,13 @@
-# Copilot instructions — .NET DDD Web API
+# Copilot instructions — AI Agent Framework
 
-This repository builds **.NET Web APIs using layered DDD / Clean Architecture**, following
-the `jino-labs/DotNet-WebApi-Template` conventions. The full ruleset lives in
-[`AGENTS.md`](../AGENTS.md) (Copilot also reads it automatically) — this file is the short
-version; per-layer detail is in `.github/instructions/*.instructions.md`.
+This repository is an AI-developer framework covering two domains:
+
+- **Backend** — **.NET Web APIs using layered DDD / Clean Architecture** (`jino-labs/DotNet-WebApi-Template` conventions). Full ruleset in [`AGENTS.md`](../AGENTS.md); the short version is below.
+- **Frontend** — **Nuxt 4 + Nuxt UI v4** (universal SSR, `app/` structure). Full ruleset in [`NUXT.md`](../NUXT.md); short version in [`.github/instructions/nuxt-frontend.instructions.md`](instructions/nuxt-frontend.instructions.md) (applies to `.vue`/`nuxt.config`/`app/`/`server/` files).
+
+Per-layer detail for both lives in `.github/instructions/*.instructions.md`, scoped by `applyTo`. The rest of this file is the .NET backend short version.
+
+## .NET DDD Web API
 
 ## Architecture
 
