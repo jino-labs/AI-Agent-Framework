@@ -1,0 +1,10 @@
+{
+  "name": "nuxt-frontend",
+  "description": "AI agents, skills, hooks and MCP for building Nuxt 4 frontends with Nuxt UI v4 (universal SSR, app/ structure, file-based routing).",
+  "version": "0.1.0",
+  "author": {
+    "name": "Javier Antonio"
+  },
+  "homepage": "https://github.com/jino-labs/AI-Agent-Framework",
+  "license": "MIT"
+}
